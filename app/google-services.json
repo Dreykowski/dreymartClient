@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "432775830415",
+    "firebase_url": "https://clientdreymart.firebaseio.com",
+    "project_id": "clientdreymart",
+    "storage_bucket": "clientdreymart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432775830415:android:46327aa30cafe2e9",
+        "android_client_info": {
+          "package_name": "com.dreytech.clientdreymart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432775830415-64qrmqo8abidh0v4kjvao8nfligqa5kp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dreytech.clientdreymart",
+            "certificate_hash": "37544dcd0811961825fb236eec2ffcbd8d5d8891"
+          }
+        },
+        {
+          "client_id": "432775830415-p0p3be8so0h7e0rvf6e6fp6a4mdcv7i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtVYj7FCgAL2mCvhTCWoLMqZOf1q5yg08"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432775830415-p0p3be8so0h7e0rvf6e6fp6a4mdcv7i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
